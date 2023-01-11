@@ -1,0 +1,6 @@
+.pr-title {
+  text-decoration: none;
+}
+.pr-title:hover {
+  text-decoration: underline;
+}
